@@ -1,0 +1,32 @@
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\appsettings.json
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\Gestor de contraseñas.exe
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\Gestor de contraseñas.deps.json
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\Gestor de contraseñas.runtimeconfig.json
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\Gestor de contraseñas.dll
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\Gestor de contraseñas.pdb
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.csproj.AssemblyReference.cache
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.AssemblyInfoInputs.cache
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.AssemblyInfo.cs
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.csproj.CoreCompileInputs.cache
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\staticwebassets\msbuild.Gestor de contraseñas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\staticwebassets\msbuild.build.Gestor de contraseñas.props
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gestor de contraseñas.props
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gestor de contraseñas.props
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\scopedcss\bundle\Gestor de contraseñas.styles.css
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor d.A7D604D9.Up2Date
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.dll
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\refint\Gestor de contraseñas.dll
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.pdb
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.genruntimeconfig.cache
+C:\Proyecto\Gestor de contraseñas\Gestor de contraseñas\obj\Debug\net8.0\ref\Gestor de contraseñas.dll

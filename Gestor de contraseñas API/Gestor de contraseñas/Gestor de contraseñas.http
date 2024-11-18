@@ -1,0 +1,6 @@
+@Gestor_de_contraseñas_HostAddress = http://localhost:5052
+
+GET {{Gestor_de_contraseñas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
