@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "Wak/PNIXfzPqKTDv9U+5CqrpdMQmk0Z7skPeLYP1ORw=",
+  "Hash": "gPH8eXYmJIPwl6eQO4bV1WqSx2XTs5hHbJN/o16x3JI=",
   "Source": "Gestor de contraseñas",
   "BasePath": "_content/Gestor de contraseñas",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

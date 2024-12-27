@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Account.LoginModel",
+        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Account.LoginUserModel",
         "IsRequired": true
       }
     ],
@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Account.RegisterModel",
+        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Account.RegisterUserModel",
         "IsRequired": true
       }
     ],
@@ -58,6 +58,70 @@
       {
         "Name": "model",
         "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Account.UpdateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gestor_de_contrase\u00F1as.Controllers.Users.RoleController",
+    "Method": "AssignRole",
+    "RelativePath": "api/Role/assignRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Rol.AssignRoleModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gestor_de_contrase\u00F1as.Controllers.Users.RoleController",
+    "Method": "CreateRole",
+    "RelativePath": "api/Role/createRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Rol.CreateRoleModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gestor_de_contrase\u00F1as.Controllers.Users.RoleController",
+    "Method": "RemoveRole",
+    "RelativePath": "api/Role/removeRole",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Rol.RemoveRoleModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gestor_de_contrase\u00F1as.Controllers.Users.RoleController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/Role/updateRole",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Rol.UpdateRoleModel",
         "IsRequired": true
       }
     ],

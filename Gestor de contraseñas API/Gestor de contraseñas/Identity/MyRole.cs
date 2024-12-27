@@ -2,7 +2,7 @@
 
 namespace Gestor_de_contraseñas.Identity
 {
-    public class MyRol : IdentityRole
+    public class MyRole : IdentityRole
     {
 
 

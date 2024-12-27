@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5tOVR4vM+Y=",
+  "dgSpecHash": "hpylgWQwXHI=",
   "success": true,
-  "projectFilePath": "C:\\Proyecto\\Gestor de contraseñas API\\Gestor de contraseñas\\Gestor de contraseñas.csproj",
+  "projectFilePath": "C:\\Proyecto\\Gestor-de-contrasenas\\Gestor de contraseñas API\\Gestor de contraseñas\\Gestor de contraseñas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Martin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.11\\microsoft.aspnetcore.authentication.jwtbearer.8.0.11.nupkg.sha512",

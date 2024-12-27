@@ -15,7 +15,7 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<MyIdentityDBContext>(options => 
     options.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0))));
 
-builder.Services.AddIdentity<MyUser, MyRol>()
+builder.Services.AddIdentity<MyUser, MyRole>()
     .AddDefaultTokenProviders()
     .AddEntityFrameworkStores<MyIdentityDBContext>();
 
