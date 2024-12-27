@@ -1,23 +1,66 @@
 [
   {
-    "ContainingType": "Gestor_de_contrase\u00F1as.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
+    "ContainingType": "Gestor_de_contrase\u00F1as.Controllers.Users.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/login",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Gestor_de_contrase\u00F1as.WeatherForecast, Gestor de contrase\u00F1as, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "model",
+        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Account.LoginModel",
+        "IsRequired": true
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gestor_de_contrase\u00F1as.Controllers.Users.AccountController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/Account/registerUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Account.RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gestor_de_contrase\u00F1as.Controllers.Users.AccountController",
+    "Method": "RemoveUser",
+    "RelativePath": "api/Account/removeUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Account.RemoveUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gestor_de_contrase\u00F1as.Controllers.Users.AccountController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Account/updateUser",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Gestor_de_contrase\u00F1as.Controllers.Users.Models.Account.UpdateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

@@ -146,3 +146,11 @@ C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\obj\Debug\net8.0\s
 C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\obj\Debug\net8.0\Gestor d.A7D604D9.Up2Date
 C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\obj\Debug\net8.0\Gestor de contraseñas.genruntimeconfig.cache
 C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\obj\Debug\net8.0\ref\Gestor de contraseñas.dll
+C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyecto\Gestor de contraseñas API\Gestor de contraseñas\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
